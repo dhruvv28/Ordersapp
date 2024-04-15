@@ -1,6 +1,6 @@
-# test
+Orders-App
 
-A new Flutter project.
+A Basic Ui for an app taking orders.
 
 ## Getting Started
 
